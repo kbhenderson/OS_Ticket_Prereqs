@@ -45,7 +45,7 @@ We are going to be using Microsoft Azure for the installation of this ticketing 
 <img src="https://i.imgur.com/Tb9pWCu.png" height="80%" width="80%" alt="Windows IIS Installation"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Please ensure to enable these important windows features. The Windows Internet Information Services feature must be enabled on your system in order for osTicket to work properly. Click the Web management tools box, the CGI box located inside of the Application Development Features folder and finally click the Common HTTP Features folder and then OK. Let the features install. After installing, type 127.0.0.1 in your browser to launch the server.
 </p>
 <br />
 
@@ -53,6 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/oRLyZrA.png" height="80%" width="80%" alt="osTicket Installation"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You will be greeted with the congratulations screen when installation is complete. Type localhost/osticket inside the browser. You will be greeted with the support center page. Click agent sign in on right to sign into the portal. Once signed in you will be able to create and close tickets. 
 </p>
 <br />
