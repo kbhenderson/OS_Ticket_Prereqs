@@ -37,7 +37,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We are going to be using Microsoft Azure for the installation of this ticketing software. Go ahead and visit the google drive posted here. When you arrive install the 7 prerequisite needed software for the installation of osTicket. After installing the items move on to the next step. 
+We are going to be using Microsoft Azure for the installation of this ticketing software. Go ahead and visit the google drive posted here (https://drive.google.com/drive/folders/1052szblIPMV5z05t2770IISsQVmmovJ2?usp=sharing). When you arrive install the 7 prerequisite needed software for the installation of osTicket. After installing the items move on to the next step. 
 </p>
 <br />
 
